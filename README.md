@@ -1,10 +1,11 @@
 - 👋 Hi there, I’m Pablo!
-- 🏠 Based in Auckland, New Zealand.
+- 🌎 Argentinean based in Auckland, New Zealand. 🌏
 - 👀 I’m interested in travelling, wild life, sports and science.
 - 🌱 I’m currently learning front-end lenguages like HTML, CSS and JS.
-- ⌨️ In the journey of becoming a Full Stack Web Developer.
+- 💻 In the journey of becoming a Full Stack Web Developer.
 - 💞️ Married with the greatest woman in the world.
-- 
+- 🐳 Also, I love Whales 🐋
+
 - 📫 How to reach me: 
 - Email: 		huusmannpablo@gmail.com
 - Instagram: 	https://www.instagram.com/pablohuusmann/?hl=en
