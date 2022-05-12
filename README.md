@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @HuusmannPablo
+- 👋 Hi there, I’m Pablo!
+- 🏠 Based in Auckland, New Zealand.
 - 👀 I’m interested in travelling, wild life, sports and science.
-- 🌱 I’m currently learning fron end lenguages like HTML, CSS and JS.
-- 💞️ I’m looking to collaborate on interesting projects.
-- 📫 How to reach me: huusmannpablo@gmail.com
+- 🌱 I’m currently learning front-end lenguages like HTML, CSS and JS.
+- ⌨️ In the journey of becoming a Full Stack Web Developer.
+- 💞️ Married with the greatest woman in the world.
+- 
+- 📫 How to reach me: 
+- Email: 		huusmannpablo@gmail.com
+- Instagram: 	https://www.instagram.com/pablohuusmann/?hl=en
+- Linked In: 	https://www.linkedin.com/in/pablo-huusmann/
 
 <!---
 HuusmannPablo/HuusmannPablo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
