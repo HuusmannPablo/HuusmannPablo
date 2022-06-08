@@ -1,7 +1,7 @@
 - 👋 Hi there, I’m Pablo!
 - 🌎 Argentinean based in Auckland, New Zealand. 🌏
 - 👀 I’m interested in travelling, wild life, sports and science.
-- 🌱 I’m currently learning front-end lenguages like HTML, CSS and JS.
+- 🌱 I’m currently learning front-end lenguages like HTML, CSS, JS and React.
 - 💻 In the journey of becoming a Full Stack Web Developer.
 - 💞️ Married with the greatest woman in the world.
 - 🐳 Also, I love Whales 🐋
