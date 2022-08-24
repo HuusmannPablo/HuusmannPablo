@@ -2,8 +2,8 @@
 - 🌎 Argentinean based in Auckland, New Zealand. 🌏
 - 👀 I’m interested in travelling, wild life, sports and science.
 - 🌱 I’m currently learning front-end lenguages like HTML, CSS, JS and React.
-- 🌱 and back-end like Node, Express, and MySQL.
-- 💻 In the journey of becoming a Full Stack Web Developer.
+- 🌱 and back-end like Node, Nest, and MySQL.
+- 💻 Working as a Full Stack Web Developer for Pitcheers.
 - 💞️ Married with the greatest woman in the world.
 - 🐳 Also, I love Whales 🐋
 
