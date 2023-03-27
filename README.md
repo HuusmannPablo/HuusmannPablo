@@ -1,9 +1,10 @@
 - 👋 Hi there, I’m Pablo!
 - 🌎 Argentinean based in Auckland, New Zealand. 🌏
 - 👀 I’m interested in travelling, wild life, sports and science.
-- 🌱 I’m currently using front-end technologies like HTML, CSS and JS. Mainly working with React, StyledComponents, Materials-UI, etc.
+- 🌱 I’m currently using front-end stacks like HTML, CSS and JS for the web projects. Mainly working with React, StyledComponents, Materials-UI, etc.
 - 🌱 and back-end like Node, Nest, and MySQL.
-- 💻 Working as a Full-Stack Web Developer for Pitcheers.
+- 🌱 On my free time, I'm playing with Node and Mongo, building some small projects to learn more about them. Also practicing Go and solving algorithms.
+- 💻 Working as a Full-Stack Developer for Pitcheers.
 - 💞️ Married with the greatest woman in the world.
 - 🐳 Also, I love Whales 🐋
 
