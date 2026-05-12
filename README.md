@@ -2,8 +2,8 @@
 - 🌎 Argentinean based in Auckland, New Zealand. 🌏
 - 👀 I’m interested in travelling, wildlife, sports, and science.
 - 🌱 I have worked with front-end stacks like HTML, CSS, and JS/TS, mainly using React, Vue, Flutter, Tailwind, StyledComponents, Materials-UI, etc.
-- 🌱 and back-end like Node, Nest, and MySQL.
-- 💻 I'm currently looking for may next role as a Software Engineer.
+- 🌱 and data stacks like Python and MySQL.
+- 💻 I'm currently working as a Data/Software Engineer.
 - 💞️ Married with the greatest woman in the world.
 - 🐳 Also, I love Whales 🐋
 
